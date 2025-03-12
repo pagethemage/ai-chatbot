@@ -10,3 +10,14 @@ from models import Car
 
 app = FastAPI()
 app.include_router(router)
+
+
+
+## TODO:
+
+## Maybe focus on integrating AI first, getting the API calls and conversation working
+    ## then implement SQL database 
+
+## Understand SQLalchemy and its ORM further
+## Implement more class
+## Expriment with SQL queries
