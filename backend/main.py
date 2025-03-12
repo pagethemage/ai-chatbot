@@ -18,6 +18,7 @@ app.include_router(router)
 ## Maybe focus on integrating AI first, getting the API calls and conversation working
     ## then implement SQL database 
 
+## Install cookiecutter to ensure my app follows FastAPI conventions
 ## Understand SQLalchemy and its ORM further
 ## Implement more class
 ## Expriment with SQL queries
